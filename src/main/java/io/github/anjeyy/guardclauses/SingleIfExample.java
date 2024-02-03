@@ -9,7 +9,7 @@ class SingleIfExample {
         throw new UnsupportedOperationException("Division by 0.");
     }
 
-    double sfter(int x) {
+    double after(int x) {
         if (x == 0) {
             throw new UnsupportedOperationException("Division by 0.");
         }
